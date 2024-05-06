@@ -1,0 +1,49 @@
+body{
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.faces{
+    width: 2.5rem;
+    border-radius: 10rem;
+}
+
+.container{
+    padding:0 0.5rem 0 0.5rem ;
+}
+nav{
+    display: flex;
+    width: 100vw; 
+    justify-content: space-around;
+    background-color: beige;
+    margin-bottom: 2rem;
+    padding:0.5rem 0 0.5rem 0 ;
+}
+nav h1{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.visit{
+    background: blue;
+    border-radius: 0.2rem;
+    color: white;
+    padding: 0.4rem;
+    
+}
+
+section{
+    margin-top: 4rem;
+    border-top: 1px solid gray;
+}
+
+footer{
+    background-color: black;
+    width: 100vw;
+    color: wheat;
+    text-align: center;
+}
