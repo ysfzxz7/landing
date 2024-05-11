@@ -10,9 +10,9 @@ Book Information: The page includes sections to display key details about your b
 Author Information: You can highlight information about the author, including their background, achievements, and other relevant details.
 Responsive Design: The landing page is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
 ## Getting Started
-    To get started with the project, follow these steps:
+    git clone https://github.com/ysfzxz7/landing.git
 -
-    Clone the repository: ```https://github.com/ysfzxz7/landing.git```
+    The repository link: ```https://github.com/ysfzxz7/landing.git```
 
 **Navigate to the project directory:** cd landing
 Open the index.html file in your preferred web browser.
