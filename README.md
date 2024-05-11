@@ -1,6 +1,6 @@
 
 # Book Website Landing Page
-    This project is a landing page for a book website. It showcases information about your book, provides a brief summary, and encourages visitors to take action such as purchasing the book or signing up for updates.
+This project is a landing page for a book website. It showcases information about your book, provides a brief summary, and encourages visitors to take action such as purchasing the book or signing up for updates.
 
 ## Features
 Attractive Design: The landing page features an appealing design that captures the essence of your book and engages visitors.
